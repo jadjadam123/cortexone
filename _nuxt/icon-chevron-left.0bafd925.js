@@ -1,0 +1,1 @@
+import{e,o,f as t,d as s}from"./entry.741170f4.js";const c={},n={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 4 6"},r=s("path",{d:"m2.99964,5.99948h.99991L1.39016,3.36637l-.39035-.36663.39024-.36664L3.99955,0h-.99991S0,2.99974,0,2.99974l2.99964,2.99974Z"},null,-1),_=[r];function a(d,h){return o(),t("svg",n,_)}const f=e(c,[["render",a]]);export{f as default};

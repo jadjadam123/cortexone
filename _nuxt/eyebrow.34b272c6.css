@@ -1,0 +1,1 @@
+:root{--real-height:100vh}.eyebrow-element{opacity:0;transform:translate(20px);transition:opacity 1s cubic-bezier(.165,.84,.44,1) .1s,transform 1s cubic-bezier(.165,.84,.44,1)}.eyebrow-element--visible{opacity:1;transform:translate(0)}
